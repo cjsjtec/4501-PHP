@@ -30,7 +30,9 @@ class FrontController
         DispatcherInterface $dispatcher
     ) {
 		// [Lab02] Ajuste de Rotas
-    }
+    	$this->router     = $router;
+		$this->dispatcher = $dispatcher ;
+	}
 
     /**
      * Faz o roteamento e envia o resultado
@@ -40,5 +42,8 @@ class FrontController
     public function run(RequestInterface $request, ResponseInterface $response)
     {
 		// [Lab02] Ajuste de Rotas
+		$route = $this->router->route($request , $response);
+		$this->dispatcher->dispatch($route, $request, $response);	
+				
     }
 }

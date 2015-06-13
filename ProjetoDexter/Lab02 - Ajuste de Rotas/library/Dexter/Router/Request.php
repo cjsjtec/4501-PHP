@@ -57,7 +57,10 @@ class Request implements RequestInterface
     public function getParams()
     {
 		// [Lab02] Ajuste de Rotas
-    }
+
+		$this->doParseParams();
+		return $this->params;
+	}
 
     /**
      * Faz o parse dos parâmetros da requisição

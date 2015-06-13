@@ -30,7 +30,8 @@ class Route implements RouteInterface
      */
     public function __construct($pattern, $exec)
     {
-		// [Lab02] Ajuste de Rotas
+    	$this->pattern = $pattern;
+    	$this->exec    = $exec;
     }
  
     /**

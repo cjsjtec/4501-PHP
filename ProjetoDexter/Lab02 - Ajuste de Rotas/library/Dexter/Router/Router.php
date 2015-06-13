@@ -33,6 +33,12 @@ class Router implements RouterInterface
     public function addRoutes(array $routes)
     {
 		// [Lab02] Ajuste de Rotas
+
+    	if(is_array($routes)) {
+			foreach($routes as $chave => $route) {
+				$this->addRoute($route);
+			}
+		}
         return $this;
     }
 
@@ -54,6 +60,14 @@ class Router implements RouterInterface
     public function route(RequestInterface $request, ResponseInterface $response)
     {
 		// [Lab02] Ajuste de Rotas
+		$routes = 	$this->getRoutes();
+
+		foreach($routes as $route) {
+			if($route->match($request)) {
+				return $route;
+			}
+		}
+
         $response->addHeader('404 Page not found');
         $response->send();
         throw new \RuntimeException('No route matched the current URI');

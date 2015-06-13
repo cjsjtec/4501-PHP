@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Cap1"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Cap2"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Cap3"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Cap4"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Cap5"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Cap6"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Cap7"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Cap8"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Cap9"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab02 - Ajuste de Rotas/application"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab02 - Ajuste de Rotas/library/Dexter"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab02 - Ajuste de Rotas/public"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab02 - Ajuste de Rotas/tests"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab02 - Ajuste de Rotas/vendor"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab04 - Trabalhando com Strategy Pattern para o login/application"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab04 - Trabalhando com Strategy Pattern para o login/library/Dexter"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab04 - Trabalhando com Strategy Pattern para o login/public"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab04 - Trabalhando com Strategy Pattern para o login/tests"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab04 - Trabalhando com Strategy Pattern para o login/vendor"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab05 - Usando Exceptions/application"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab05 - Usando Exceptions/library/Dexter"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab05 - Usando Exceptions/public"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab05 - Usando Exceptions/tests"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab05 - Usando Exceptions/vendor"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab06 - Trabalhando com Singleton e Metodos Magicos/application"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab06 - Trabalhando com Singleton e Metodos Magicos/library/Dexter"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab06 - Trabalhando com Singleton e Metodos Magicos/public"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab06 - Trabalhando com Singleton e Metodos Magicos/tests"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab06 - Trabalhando com Singleton e Metodos Magicos/vendor"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab07 - Usando PDO e Prepared Statements/application"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab07 - Usando PDO e Prepared Statements/library/Dexter"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab07 - Usando PDO e Prepared Statements/public"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab07 - Usando PDO e Prepared Statements/tests"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab07 - Usando PDO e Prepared Statements/vendor"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab08 - Usando SPL com os dados do banco/application"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab08 - Usando SPL com os dados do banco/library/Dexter"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab08 - Usando SPL com os dados do banco/public"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab08 - Usando SPL com os dados do banco/tests"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab08 - Usando SPL com os dados do banco/vendor"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab09 - Fazendo CRUD de Funcionalidades/application"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab09 - Fazendo CRUD de Funcionalidades/library/Dexter"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab09 - Fazendo CRUD de Funcionalidades/public"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab09 - Fazendo CRUD de Funcionalidades/tests"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab09 - Fazendo CRUD de Funcionalidades/vendor"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Projeto Final/application"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Projeto Final/library/Dexter"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Projeto Final/public"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Projeto Final/tests"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Projeto Final/vendor"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>

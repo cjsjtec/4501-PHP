@@ -26,6 +26,7 @@ class Response implements ResponseInterface
     public function addHeader($header)
     {
         // [Lab02] Ajuste de Rotas
+    	$this->headers[] = $header;
         return $this;
     }
 
@@ -49,6 +50,7 @@ class Response implements ResponseInterface
     public function getHeaders()
     {
 		// [Lab02] Ajuste de Rotas
+		return $this->headers;
     }
 
     /**
@@ -58,8 +60,11 @@ class Response implements ResponseInterface
     {
         $headers = array();
         foreach ($this->headers as $header) {
-            if (false === strpos($header, ':')) {
+            
+        	if (false === strpos($header, ':')) {
 				// [Lab02] Ajuste de Rotas
+        		$headers[] = self::HTTP.' '.$header;
+            	
             } else {
                 $headers[] = $header;
             }
