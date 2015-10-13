@@ -8,7 +8,7 @@
 	$lion = new Cachorro();
 
 	$lion->nome  = "Lion Ze ruela";
-	$lion->raca  = "Vira Lata";
+	$lion->raca  = "Vira Lata - Dalmata";
 	$lion->idade = 5;
 	
 	var_dump($lion);
