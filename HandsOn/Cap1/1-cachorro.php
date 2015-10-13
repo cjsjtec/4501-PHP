@@ -6,11 +6,10 @@
 	}
 
 	$lion = new Cachorro();
-
-	$lion->nome  = "Lion Ze ruelae";
+	$lion->nome  = "Lion Ze ruela / cuzão - xx - yyyyx";
 	$lion->raca  = "Vira Lata - Dalmata";
 	$lion->idade = 5;
-	
+
 	var_dump($lion);
 	//echo $lion->nome."<br/>";
 	//echo $lion->raca."<br/>";
