@@ -1,0 +1,592 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getFuncionalidadeMapper〔function〕"
+			],
+			[
+				"func",
+				"$funcionalidadeId〔variable〕"
+			],
+			[
+				"funciona",
+				"funcionalidadeMapper"
+			],
+			[
+				"fun",
+				"$funcionalidadeId〔variable〕"
+			],
+			[
+				"rot",
+				"roteador"
+			],
+			[
+				"Recurs",
+				"RecursiveDirectoryIterator〔class〕"
+			],
+			[
+				"fruta",
+				"$fruta〔variable〕"
+			],
+			[
+				"Array",
+				"ArrayObject〔class〕"
+			],
+			[
+				"ofse",
+				"offset"
+			],
+			[
+				"of",
+				"$offset〔variable〕"
+			],
+			[
+				"ofs",
+				"offset"
+			],
+			[
+				"offs",
+				"$offset〔variable〕"
+			],
+			[
+				"ha",
+				"$harryPotter〔variable〕"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"Cliente",
+				"ClienteGateway〔class〕"
+			],
+			[
+				"set",
+				"setNome〔function〕"
+			],
+			[
+				"call_usert",
+				"call_user_func_array〔function〕"
+			],
+			[
+				"dbpg",
+				"$dbPgSql〔variable〕"
+			],
+			[
+				"dbS",
+				"$dbPgSql〔variable〕"
+			],
+			[
+				"db",
+				"$dbPgql〔variable〕"
+			],
+			[
+				"user",
+				"userModel"
+			],
+			[
+				"my",
+				"$myFn2〔variable〕"
+			],
+			[
+				"html",
+				"htmlentities〔function〕"
+			],
+			[
+				"vi",
+				"$view〔variable〕"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"Conta",
+				"Container〔class〕"
+			],
+			[
+				"style",
+				"styles〔variable〕"
+			],
+			[
+				"s",
+				"styles〔variable〕"
+			],
+			[
+				"new",
+				"newInstanceArgs〔function〕"
+			],
+			[
+				"Re",
+				"ReflectionClass〔class〕"
+			],
+			[
+				"refl",
+				"$refCarro〔variable〕"
+			],
+			[
+				"getMe",
+				"getMethods〔function〕"
+			],
+			[
+				"num",
+				"$num2〔variable〕"
+			],
+			[
+				"__c",
+				"__construct〔function〕"
+			],
+			[
+				"var_",
+				"var_dump〔function〕"
+			],
+			[
+				"vali",
+				"validator"
+			],
+			[
+				"Valid",
+				"Validator〔class〕"
+			],
+			[
+				"ret",
+				"return〔keyword〕"
+			],
+			[
+				"sta",
+				"static〔keyword〕"
+			],
+			[
+				"Frete",
+				"FreteFixo〔class〕"
+			],
+			[
+				"Ca",
+				"Calca〔class〕"
+			],
+			[
+				"to",
+				"$totalFrete〔variable〕"
+			],
+			[
+				"total",
+				"$totalItens〔variable〕"
+			],
+			[
+				"pedi",
+				"$pedido〔variable〕"
+			],
+			[
+				"fre",
+				"$freteStrategy〔variable〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ProjetoDexter/Lab09 - Fazendo CRUD de Funcionalidades/application/Admin/Models/Entity/Funcionalidade.php",
+			"settings":
+			{
+				"buffer_size": 1868,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ProjetoDexter/Lab09 - Fazendo CRUD de Funcionalidades/application/Front/Models/AbstractMapper.php",
+			"settings":
+			{
+				"buffer_size": 562,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ProjetoDexter/Lab09 - Fazendo CRUD de Funcionalidades/application/Admin/Models/DataMapper/Funcionalidade.php",
+			"settings":
+			{
+				"buffer_size": 717,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 112.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/4501-PHP",
+		"/var/www/4501-PHP/HandsOn",
+		"/var/www/4501-PHP/HandsOn/Cap7",
+		"/var/www/4501-PHP/HandsOn/Cap7/exemploFinal",
+		"/var/www/4501-PHP/HandsOn/Cap7/exemploFinal/Model",
+		"/var/www/4501-PHP/HandsOn/Cap7/exemploFinal/Model/Gateway",
+		"/var/www/4501-PHP/HandsOn/Cap8",
+		"/var/www/4501-PHP/ProjetoDexter",
+		"/var/www/4501-PHP/ProjetoDexter/Lab09 - Fazendo CRUD de Funcionalidades",
+		"/var/www/4501-PHP/ProjetoDexter/Lab09 - Fazendo CRUD de Funcionalidades/application",
+		"/var/www/4501-PHP/ProjetoDexter/Lab09 - Fazendo CRUD de Funcionalidades/application/Admin",
+		"/var/www/4501-PHP/ProjetoDexter/Lab09 - Fazendo CRUD de Funcionalidades/application/Admin/Models/DataMapper",
+		"/var/www/4501-PHP/ProjetoDexter/Lab09 - Fazendo CRUD de Funcionalidades/application/Admin/Models/Service",
+		"/var/www/4501-PHP/ProjetoDexter/Lab09 - Fazendo CRUD de Funcionalidades/application/Front",
+		"/var/www/4501-PHP/ProjetoDexter/Lab09 - Fazendo CRUD de Funcionalidades/application/Front/Models",
+		"/var/www/4501-PHP/ProjetoDexter/Projeto Final",
+		"/var/www/4501-PHP/ProjetoDexter/Projeto Final/application",
+		"/var/www/4501-PHP/ProjetoDexter/Projeto Final/application/Admin",
+		"/var/www/4501-PHP/ProjetoDexter/Projeto Final/application/Admin/Models",
+		"/var/www/4501-PHP/ProjetoDexter/Projeto Final/application/Front",
+		"/var/www/4501-PHP/ProjetoDexter/Projeto Final/application/Front/Models"
+	],
+	"file_history":
+	[
+		"/var/www/4501-PHP/ProjetoDexter/Lab09 - Fazendo CRUD de Funcionalidades/application/Admin/Models/Service/Funcionalidade.php",
+		"/var/www/4501-PHP/ProjetoDexter/Lab09 - Fazendo CRUD de Funcionalidades/application/Admin/Models/Collection/Funcionalidade.php",
+		"/var/www/4501-PHP/HandsOn/Cap9/App.php",
+		"/var/www/4501-PHP/HandsOn/Cap9/index.php",
+		"/var/www/4501-PHP/HandsOn/Cap9/Requisicao.php",
+		"/var/www/4501-PHP/HandsOn/Cap9/Despachante.php",
+		"/var/www/4501-PHP/HandsOn/Cap9/Rota.php",
+		"/var/www/4501-PHP/HandsOn/Cap9/FrontController.php",
+		"/var/www/4501-PHP/HandsOn/Cap9/Controllers/HelloWorld.php",
+		"/var/www/4501-PHP/HandsOn/Cap9/Roteador.php",
+		"/var/www/4501-PHP/HandsOn/Cap7/10-gateway.php",
+		"/var/www/4501-PHP/HandsOn/Cap7/8-lazy-load.php",
+		"/var/www/4501-PHP/HandsOn/Cap7/9-entity.php",
+		"/var/www/4501-PHP/HandsOn/Cap7/11-mapper.php",
+		"/var/www/4501-PHP/HandsOn/Cap7/exemploFinal/index.php",
+		"/var/www/4501-PHP/HandsOn/Cap8/14-autoload.php",
+		"/var/www/4501-PHP/HandsOn/Cap7/exemploFinal/Model/Entity/Cliente.php",
+		"/var/www/4501-PHP/HandsOn/Cap8/13-recursive-iterator.php",
+		"/var/www/4501-PHP/HandsOn/Cap8/12-recursive-directory-iterator.php",
+		"/var/www/4501-PHP/HandsOn/Cap8/11-directory-iterator.php",
+		"/var/www/4501-PHP/HandsOn/Cap8/10-filter-iterator.php",
+		"/var/www/4501-PHP/HandsOn/Cap8/9-limit-iterator.php",
+		"/var/www/4501-PHP/HandsOn/Cap8/8-iterator.php",
+		"/var/www/4501-PHP/HandsOn/Cap8/7-array-object.php",
+		"/var/www/4501-PHP/HandsOn/Cap8/6-iterator.php",
+		"/var/www/4501-PHP/HandsOn/Cap8/5-array-access.php",
+		"/var/www/4501-PHP/HandsOn/Cap8/4-count.php",
+		"/var/www/4501-PHP/HandsOn/Cap8/3-object-storage.php",
+		"/var/www/4501-PHP/HandsOn/Cap7/exemploFinal/Model/Db/Conn.php",
+		"/var/www/4501-PHP/HandsOn/Cap7/exemploFinal/Model/Db/cfg.php",
+		"/var/www/4501-PHP/HandsOn/Cap7/exemploFinal/Model/Db/Singleton.php",
+		"/var/www/4501-PHP/HandsOn/Cap7/exemploFinal/Model/Db/Factory.php",
+		"/var/www/4501-PHP/HandsOn/Cap7/exemploFinal/Model/Gateway/Cliente.php",
+		"/var/www/4501-PHP/HandsOn/Cap7/exemploFinal/Model/Mapper/Cliente.php",
+		"/var/www/4501-PHP/HandsOn/Cap7/exemploFinal/Model/Service/Cliente.php",
+		"/var/www/4501-PHP/HandsOn/Cap7/config.php",
+		"/var/www/4501-PHP/HandsOn/Cap7/1-connect.php",
+		"/var/www/4501-PHP/HandsOn/Cap7/2-exec.php",
+		"/var/www/4501-PHP/HandsOn/Cap7/3-query.php",
+		"/var/www/4501-PHP/HandsOn/Cap7/7-factory.php",
+		"/var/www/4501-PHP/HandsOn/Cap7/4-transactions.php",
+		"/var/www/4501-PHP/HandsOn/Cap7/5-prepared-statements.php",
+		"/var/www/4501-PHP/HandsOn/Cap7/6-singleton.php",
+		"/var/www/4501-PHP/HandsOn/Cap7/6-singleton.pgp",
+		"/var/www/4501-PHP/HandsOn/Cap7/conexao-pgql.php",
+		"/var/www/4501-PHP/HandsOn/Cap7/conexao-mysql.php",
+		"/var/www/4501-PHP/HandsOn/Cap6/14-clone.php",
+		"/var/www/4501-PHP/ProjetoDexter/Lab04 - Trabalhando com Strategy Pattern para o login/application/Admin/Controllers/IndexController.php",
+		"/var/www/4501-PHP/HandsOn/Cap7/1-connect",
+		"/var/www/4501-PHP/HandsOn/Cap6/13-invoke.php",
+		"/var/www/4501-PHP/HandsOn/Cap6/9-call.php",
+		"/var/www/4501-PHP/HandsOn/Cap6/4-clone.php",
+		"/var/www/4501-PHP/HandsOn/Cap6/12-toString.php",
+		"/var/www/4501-PHP/HandsOn/Cap6/11-toString.php",
+		"/var/www/4501-PHP/HandsOn/Cap6/.README",
+		"/var/www/4501-PHP/HandsOn/Cap6/10-validation.php",
+		"/var/www/4501-PHP/HandsOn/Cap6/7-destrutor.php",
+		"/var/www/4501-PHP/HandsOn/Cap6/8-isset-unset.php",
+		"/var/www/4501-PHP/HandsOn/Cap6/1-reflection.php",
+		"/var/www/4501-PHP/HandsOn/Cap6/6-metodo-magico-set.php",
+		"/var/www/4501-PHP/HandsOn/Cap6/home.php",
+		"/var/www/4501-PHP/HandsOn/Cap6/3-clone.php",
+		"/var/www/4501-PHP/HandsOn/Cap6/5-metodo-magico-get.php",
+		"/var/www/4501-PHP/HandsOn/Cap6/2-reflection.php",
+		"/var/www/4501-PHP/HandsOn/Cap5/11-erro.php",
+		"/var/www/4501-PHP/HandsOn/Cap5/12-erro.php",
+		"/var/www/4501-PHP/HandsOn/Cap5/13-exception.php",
+		"/var/www/4501-PHP/HandsOn/Cap5/14-exception.php",
+		"/var/www/4501-PHP/HandsOn/Cap5/10-static.php",
+		"/var/www/4501-PHP/HandsOn/Cap5/9-static.php",
+		"/var/www/4501-PHP/HandsOn/Cap5/7-static.php",
+		"/var/www/4501-PHP/HandsOn/Cap5/6-static.php",
+		"/var/www/4501-PHP/HandsOn/Cap5/9\\-static.php",
+		"/var/www/4501-PHP/HandsOn/Cap5/8-static.php",
+		"/var/www/4501-PHP/HandsOn/Cap5/5-traits.php",
+		"/home/forlinux/.config/sublime-text-3/Packages/User/ColorHighlighter.sublime-settings",
+		"/home/forlinux/.config/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/home/forlinux/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/home/forlinux/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/forlinux/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/forlinux/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/var/www/4501-PHP/HandsOn/Cap5/Frete/FreteFixo.php",
+		"/var/www/4501-PHP/HandsOn/Cap5/Pedido.php",
+		"/var/www/4501-PHP/HandsOn/Cap5/1-namespace.php",
+		"/var/www/4501-PHP/HandsOn/Cap5/2-namespace.php",
+		"/var/www/4501-PHP/HandsOn/Cap5/3-namespace.php",
+		"/var/www/4501-PHP/HandsOn/Cap5/4-namespace.php",
+		"/var/www/4501-PHP/HandsOn/Cap4/3-strategy.php",
+		"/var/www/4501-PHP/HandsOn/Cap4/4-decorator.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{\n",
+			"args",
+			"private $el;",
+			"();",
+			"true"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ProjetoDexter/Lab09 - Fazendo CRUD de Funcionalidades/application/Admin/Models/Entity/Funcionalidade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1868,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ProjetoDexter/Lab09 - Fazendo CRUD de Funcionalidades/application/Front/Models/AbstractMapper.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								397,
+								397
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ProjetoDexter/Lab09 - Fazendo CRUD de Funcionalidades/application/Admin/Models/DataMapper/Funcionalidade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								341,
+								341
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "4501.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 322.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

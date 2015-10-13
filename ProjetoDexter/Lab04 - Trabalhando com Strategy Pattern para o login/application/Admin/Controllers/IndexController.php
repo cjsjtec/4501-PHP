@@ -61,6 +61,8 @@ class IndexController extends AbstractController
     {
         if (!$this->userModel) {
             // [Lab04] Trabalhando com Strategy Pattern para o login
+            // $this->userModel = new User(new StrategyLoginDatabase);s
+
         }
         return $this->userModel;
     }

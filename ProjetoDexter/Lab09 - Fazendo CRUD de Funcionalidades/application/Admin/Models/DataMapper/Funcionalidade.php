@@ -10,6 +10,7 @@ class Funcionalidade extends AbstractMapper
     public function fetchAll()
     {
         // [Lab09] Fazendo CRUD de Funcionalidades
+        return $this->getDB()->query('SELECT * FROM funcionalidade');
     }
 
     public function fetchById($funcionalidadeId)

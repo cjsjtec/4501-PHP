@@ -2,6 +2,6 @@
 
 namespace DexterApp\Admin\Models\Collection;
 
-class Funcionalidade
+class Funcionalidade extends \ArrayObject
 {
 }

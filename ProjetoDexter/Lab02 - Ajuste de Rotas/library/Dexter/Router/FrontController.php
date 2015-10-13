@@ -1,5 +1,4 @@
 <?php
-
 namespace Dexter\Router;
 
 /**
@@ -21,7 +20,7 @@ class FrontController
     private $dispatcher;
 
     /**
-     * Inicia Roteador e Despachante
+     * Inicia Roteador e Despachante (eles sao objetos)
      * @param Dexter\Router\RouterInterface $router
      * @param Dexter\Router\DispatcherInterface $dispatcher
      */

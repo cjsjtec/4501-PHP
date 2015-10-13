@@ -17,6 +17,7 @@ class Funcionalidade
     public function getFuncionalidade($funcionalidadeId)
     {
         // [Lab09] Fazendo CRUD de Funcionalidades
+        $this->getFuncionalidadeMapper($funcionalidadeId);
     }
 
     public function getFuncionalidades()
@@ -32,6 +33,11 @@ class Funcionalidade
     public function getFuncionalidadeMapper()
     {
         // [Lab09] Fazendo CRUD de Funcionalidades
+
+        if(!$this->funcionalidadeMapper) {
+            $this->funcionalidadeMapper = new DataMapper\Funcionalidade();
+        }
+        return $this->funcionalidadeMapper->fetchById($funcionalidadeId);
     }
 
     public function setFuncionalidadeMapper(DataMapper\Funcionalidade $mapper)
