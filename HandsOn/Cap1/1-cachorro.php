@@ -7,7 +7,7 @@
 
 	$lion = new Cachorro();
 
-	$lion->nome  = "Lion Ze ruela / cuzã - yyy";
+	$lion->nome  = "Lion Ze ruela / cuzã -xxx teste";
 	$lion->raca  = "Vira Lata - Dalmata";
 	$lion->idade = 5;
 	
